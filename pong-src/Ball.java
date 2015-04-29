@@ -4,6 +4,7 @@ import java.awt.Rectangle;
 import javax.swing.JOptionPane;
 
 public class Ball {
+	//comment comment comment
     private static final int WIDTH = 30, HEIGHT = 30;
     private Pong game;
     private int x, y, xa = 2, ya = 2;
