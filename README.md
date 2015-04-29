@@ -1,1 +1,1 @@
-Test Repository targetted at exploring GIT
+Test repository targeted at exploring git
